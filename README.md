@@ -1,15 +1,15 @@
 # pdf-print-chrome
 Automatically Print PDF Documents via Google Chrome
 
-Requirements: <br>
+**Requirements:** <br>
 This Code uses Selenium and Google Chrome (meaning you will need correct ChromeDriver for your version of Chrome) <br>
 Download ChromeDriver Here: https://chromedriver.chromium.org/downloads <br>
 
-Inputs: <br>
+**Inputs:** <br>
 Required: <br>
 File of Document/Picture you want to print <br>
 
-Optional: <br>
+**Optional**: <br>
 Printer (str): name of printer you want to use (default printer selected by default) <br>
 copies (int): number of copies printer (1 selected by default) <br>
 color (Bool): Color vs Black and White (Color True Selected by default) <br>
