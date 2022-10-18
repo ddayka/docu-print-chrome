@@ -6,10 +6,10 @@ This Code uses Selenium and Google Chrome (meaning you will need correct ChromeD
 Download ChromeDriver Here: https://chromedriver.chromium.org/downloads <br>
 
 **Inputs:** <br>
-Required: <br>
+_Required:_ <br>
 File of Document/Picture you want to print <br>
 
-**Optional**: <br>
+_Optiona:_ <br>
 Printer (str): name of printer you want to use (default printer selected by default) <br>
 copies (int): number of copies printer (1 selected by default) <br>
 color (Bool): Color vs Black and White (Color True Selected by default) <br>
