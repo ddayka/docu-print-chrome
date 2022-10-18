@@ -7,7 +7,7 @@ Download ChromeDriver Here: https://chromedriver.chromium.org/downloads <br>
 
 **Inputs:** <br>
 _Required:_ <br>
-file (str) FilePath of PDF/Document you want to print <br>
+file (str): FilePath of PDF/Document you want to print <br>
 
 _Optional:_ <br>
 Printer (str): name of printer you want to use (default printer selected by default) <br>
