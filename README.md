@@ -1,5 +1,5 @@
 # pdf-print-chrome
-Automatically Print Document via Google Chrome
+Automatically Print PDF Documents via Google Chrome
 
 Requirements: <br>
 This Code uses Selenium and Google Chrome (meaning you will need correct ChromeDriver for your version of Chrome) <br>
